@@ -1,0 +1,24 @@
+Detalles extra para buen funcionamiento
+
+todas las ideas de aqui se implementar o no de a cuerdo a su apartado,  y donde se necesiten, por lo tanto no estan organizadas en algún 
+orden en especifico
+
+una funcion que me pueda decir cuando un usuario ya dio los datos de una materia y no pueda repetirla en su horario(que este 2 veces)
+para no sobrescribir o crear conflictos en el horario
+
+una funcion que me permita comparar mientras el usuario ingresa las horas y dias que ve una materia que no este remplazando las horas y los dias de 
+una materia que ya esta ocupando esos mismos dias y mismas horas
+
+una funcion que me trasnfome a minuscula o mayuscula todo los caracteres que ingrese el usuario cuando el sistema le este preguntando
+el nombre de la materia para evitar erros a la hora de comparar con la base de datos
+
+funciones que me filtre posibles caracteres erroneos cuando se le solicite ingresar algun tipo de informacion(como cuando el sistema le solicite
+que ingrese el codigo de la materia e ingrese caracteres que no sean numeros) y el sistema le solicite nuevamenmte que ingrese de forma correcta la 
+informacion solicitada hasta que la ponga de forma correcta
+
+una funcion que le pregunte al usuario que franja horaria prefiere para acomodar sus horas de trabajo independiente(puede ser 2 como desde 
+00-12 ó 12-24)
+
+una funcion opciona es pedirle al usuario si desea indicar su horario personal (como su horario de sueño o de tiempo libre) para dar 
+una mejor sugerencia hacerca de que dias y horas de la semana deberia dedicarle a sus horas de trabajo independientes 
+
